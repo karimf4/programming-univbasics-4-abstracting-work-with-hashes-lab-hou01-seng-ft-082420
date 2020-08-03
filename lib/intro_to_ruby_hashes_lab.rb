@@ -2,7 +2,8 @@ def my_hash_creator(key, value)
   my_hash_creator = {
   key => value
 }
-my_hash
+my_hash_creator
+end 
 
 def read_from_hash(hash, key)
   hash[key]
